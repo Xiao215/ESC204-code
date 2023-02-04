@@ -1,4 +1,3 @@
-```python
 '''
 ESC204 2023S Prototypingx
 Task: Light up onboard LED on button press.
@@ -55,4 +54,3 @@ while True:
         counter += 1
     elif (button.value == True and past_button == False):
         past_button = True
-```
